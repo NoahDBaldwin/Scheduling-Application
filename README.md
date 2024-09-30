@@ -20,11 +20,11 @@ This is a windows form that can be used to organize schedules. Users are added i
 
 <h2>Here are some photos:</h2>
 
-[https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/1.png]
-[https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/2.png]
-[https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/3.png]
-[https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/4.png]
-[https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/5.png]
-[https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/6.png]
-[https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/7.png]
-[https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/8.png]
+!(https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/1.png)
+!(https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/2.png)
+!(https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/3.png)
+!(https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/4.png)
+!(https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/5.png)
+!(https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/6.png)
+!(https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/7.png)
+!(https://github.com/NoahDBaldwin/Scheduling-Application/blob/main/photos/8.png)
